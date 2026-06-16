@@ -1,1 +1,1 @@
-# GeradorDin-micodeFun-es
+# GeradorDinamicoFuncoes
